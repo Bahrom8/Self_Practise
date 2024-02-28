@@ -14,7 +14,6 @@ public class Task1_EmployeeInfo {
         System.out.println(name);
         System.out.println(name);
         System.out.println(name);
-
          */
 
         String employeeName = "Daniel";

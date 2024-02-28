@@ -10,7 +10,6 @@ public class Task2_StudentInfo {
             school_name = "CYDEO",
             grade_level = "Java Developer";
     int num1 = 100, num2 = 200, num3 = 300;
-
    */
 
      String student_name = "Nora";

@@ -11,7 +11,6 @@ public class Task3_Rectangle {
     }
 }
 
-
 /*
 1. Create a class named Rectangle.java
 2. Declare the following variables:
