@@ -4,8 +4,15 @@ public class Task3_Rectangle {
 
     public static void main(String[] args) {
 
-        String area = "width * length";
+        double length = 2.5;
+        double width = 4.5;
+
+        double area = length * width;
+
+        System.out.println("length = " + length);
+        System.out.println("width = " + width);
         System.out.println("area = " + area);
+
 
 
     }
