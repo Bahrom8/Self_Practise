@@ -28,6 +28,32 @@ public class SalaryCalculator {
         System.out.println("Net income is: $" + formattedNetSalary);
 
 
+/*
+        double hourlyRate = 55,
+                weeklyHours = 45,
+                stateTaxRate = 7.5,
+                federalTaxRate = 24.5;
+
+        double salaryBeforeTax = hourlyRate * weeklyHours * 52 ;
+
+        double stateTax = salaryBeforeTax * stateTaxRate / 100 ;
+
+        double federalTax = salaryBeforeTax * federalTaxRate / 100;
+
+        double totalTax = stateTax + federalTax;
+
+        double salaryAfterTax = salaryBeforeTax - totalTax;
+
+        System.out.println("Gross pay is: $" + salaryBeforeTax);
+        System.out.println("\tFederal tax is: $" + federalTax);
+        System.out.println("\tState tax is: $" + stateTax);
+        System.out.println("\tTotal tax is: $" + totalTax);
+        System.out.println("\tNet income is: $" + salaryAfterTax);
+
+ */
+
+
+
     }
 }
 

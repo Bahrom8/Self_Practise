@@ -5,7 +5,7 @@ public class Sqaure {
     public static void main(String[] args) {
         int side = 5;
         int area = (int) Math.pow(side, 2);
-        int perimeter = side*4;
+        int perimeter = side * 4;
 
         System.out.println("The are of the square is " + area);
         System.out.println("The perimeter of the square is " + perimeter);
